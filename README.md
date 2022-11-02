@@ -6,8 +6,10 @@ This will be an online shop for dresses
 ## Running the app
 Download the code.
 And then run these two npm commands to install the node modules and run the program. 
-<span>npm install</span>
-<span>npm run dev</span>
+<p><span>npm install</span></p>
+<p><span>npm run dev</span></p>
+`npm install`
+`npm run dev`
 
 ## Built With
 
