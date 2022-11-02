@@ -6,9 +6,11 @@ This will be an online shop for dresses
 ## Running the app
 Download the code.
 Install the node modules
+
     npm install
 
 Run the project
+
     npm run dev
 
 ## Built With
