@@ -21,3 +21,6 @@ Run the project
 
 ## Authors and contributors
 Albana Krasniqi
+
+## Progress
+Requires more JSX knowledge from myself before getting started
