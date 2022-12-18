@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
 
 const App = () => {
   return (
@@ -7,4 +7,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App;
